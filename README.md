@@ -6,7 +6,9 @@ Phishing and Spam Classification-1
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What is Perceptron??** A perceptron is a machine learning algorithm for supervised learning of binary classifiers. A binary classifier is a function which can decide whether or not an input, represented by a vector of numbers, belongs to some specific class. It is a type of linear classifier, i.e. a classification algorithm that makes its predictions based on a linear predictor function combining a set of weights with the feature vector. Hyperparameters in the moel are tunned to acheive better performance.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Perceptron for Phish Detection Jupyter Notebook is extracted from UCI Machine Learning Repository: [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites). 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Perceptron for Phish Detection Jupyter Notebook is extracted from UCI Machine Learning Repository: [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites).
+
+[Logistic Regression for Phish Detection](https://github.com/suneelkumar13/AI-and-Cybersecurity-Assignment1/blob/main/AISec_Phishing_Logistic_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suneelkumar13/AI-and-Cybersecurity/blob/main/AISec_Phishing_Logistic_Regression.ipynb)
 
 * [Logistic Regression for SMS Spam Classification](https://github.com/suneelkumar13/AI-and-Cybersecurity-Assignment1/blob/main/AISec_SMS_Spam_Logistic_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suneelkumar13/AI-and-Cybersecurity/blob/main/AISec_SMS_Spam_Logistic_Regression.ipynb)
 
