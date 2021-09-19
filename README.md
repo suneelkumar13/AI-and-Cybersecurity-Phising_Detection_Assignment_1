@@ -8,7 +8,9 @@ Phishing and Spam Classification-1
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dataset Details:** The dataset used in Perceptron for Phish Detection Jupyter Notebook is extracted from UCI Machine Learning Repository: [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites).
 
-[Logistic Regression for Phish Detection](https://github.com/suneelkumar13/AI-and-Cybersecurity-Assignment1/blob/main/AISec_Phishing_Logistic_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suneelkumar13/AI-and-Cybersecurity/blob/main/AISec_Phishing_Logistic_Regression.ipynb)
+* [Logistic Regression for Phish Detection](https://github.com/suneelkumar13/AI-and-Cybersecurity-Assignment1/blob/main/AISec_Phishing_Logistic_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suneelkumar13/AI-and-Cybersecurity/blob/main/AISec_Phishing_Logistic_Regression.ipynb)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**What is Logistic Regression??** Logistic regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. The outcome is measured with a dichotomous variable (in which there are only two possible outcomes). Hyperparameters in the model are tunned to achieve better performance.
 
 * [Logistic Regression for SMS Spam Classification](https://github.com/suneelkumar13/AI-and-Cybersecurity-Assignment1/blob/main/AISec_SMS_Spam_Logistic_Regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/suneelkumar13/AI-and-Cybersecurity/blob/main/AISec_SMS_Spam_Logistic_Regression.ipynb)
 
